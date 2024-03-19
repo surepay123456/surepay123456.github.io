@@ -26,7 +26,7 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICUS 2023</div>
-      <img src="images/ICCA.png" width="100%"/>
+      <img src="images/ICCA.png" width="50%"/>
     </div>
   </div>
 
