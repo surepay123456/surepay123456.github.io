@@ -40,7 +40,7 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCA 2024</div>
-      <image src="image/ICCA.png" width="100%"/>
+      <image src="images/ICCA.png" width="100%"/>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
