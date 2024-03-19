@@ -87,8 +87,6 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-# 📚 Projects
-
 
 # 📚 Skills
 
