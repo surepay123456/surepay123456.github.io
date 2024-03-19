@@ -35,6 +35,29 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
+<div class='paper-box>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCA 2024</div>
+      <image src="image/ICCA.png" width="100%"/>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  Risk 
+
+  IEEE International Conference on Control and Autumation (ICCA), 2024 Under Review
+  
+  Erpei Xu
+
+  - Proposed an
+
+  </div>
+</div>
+  
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
