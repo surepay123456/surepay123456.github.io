@@ -35,6 +35,26 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CASE 2023</div>
+      <a href="https://youtu.be/aPXxOKf1o10" title="TDLE"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1685324236/video_to_markdown/images/youtube--aPXxOKf1o10-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="TDLE: 2D Lidar Exploration with Hierarchical Planning Using Regional Division" width="100%"/></a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **[TDLE: 2D Lidar Exploration with Hierarchical Planning Using Regional Division](https://arxiv.org/abs/2307.02852)**
+
+  IEEE International Conference on Automation Science and Engineering (CASE), Auckland, New Zealand, 2023 
+
+  Xuyang Zhao, Chengpu Yu, **Erpei Xu** and Yixuan Liu
+
+  - Proposed an exploration system that uses global dynamic regional division and localized metric evaluation to achieve efficient autonomous mapping with low computational requirements. The proposed method can run at high frequencies (>100Hz) on low-power edge platforms like Jetson Nano, while offering up to 57.57% efficiency improvement compared to former methods.
+
+  </div>
+</div>
+
 # 🎖 Honors and Awards
 
 - *2019.10* National Scholarship(国家奖学金), Beijing Institute of Technology, China.
@@ -55,6 +75,7 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 📚 Projects
+
 
 # 📚 Skills
 
