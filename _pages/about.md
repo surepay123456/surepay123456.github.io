@@ -63,6 +63,10 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
   </div>
 </div>
 
+# 📚 Projects
+
+  xep对搭建硬件平台有着浓厚的兴趣，以下是他的一些项目经历和自己搭建的硬件平台
+
 # 🎖 Honors and Awards
 
 - *2019.10* National Scholarship(国家奖学金), Beijing Institute of Technology, China.
