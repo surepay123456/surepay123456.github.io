@@ -26,7 +26,7 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICUS 2023</div>
-      <img src="images/ICCA.png" width="100%"/>
+      <img src="images/ICCA1.png" width="100%"/>
     </div>
   </div>
 
@@ -65,7 +65,9 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
 # 📚 Projects
 
-  xep对搭建硬件平台有着浓厚的兴趣，以下是他的一些项目经历和自己搭建的硬件平台
+  xep对自主无人系统有着浓厚的兴趣，以下是他的一些项目经历和自己搭建的平台
+
+
 
 # 🎖 Honors and Awards
 
