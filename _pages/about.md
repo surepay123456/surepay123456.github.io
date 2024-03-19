@@ -37,10 +37,10 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
 # 🎖 Honors and Awards
 
-- *2019.10* National Scholarship, Beijing Institute of Technology, China.
+- *2019.10* National Scholarship(国家奖学金), Beijing Institute of Technology, China.
 - *2018.8 - 2021.6* Excellent Student Scholarship, Beijing Institute of Technology, China.
 - *2018.8 - 2022.6* 班长
-- *2020.9* third prize in the 2020 National Smart Car College student competition.
+- *2020.9* third prize in the 2020 National Smart Car College student competition(全国大学生智能车竞赛全国三等奖).
 - *2022.9* 以19/220成绩保研至北京理工大学自动化学院复杂系统与智能控制国家重点实验室硕士研究生
 - *2023.1* 获得挑战杯北京赛区一等奖
 
