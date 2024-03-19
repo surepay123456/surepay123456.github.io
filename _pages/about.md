@@ -95,8 +95,8 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
 - **Programming**: Python, C++, C，Git.
 - **Robotics**: ROS, Gazebo, Cmake, Rotors.
-- **Optimazation Solver**: QSQP, Casadi, Acados, Nlopt.
+- **Optimazation Solver**: OSQP, Casadi, Acados, Nlopt.
 - **Embedded System**: STM32, Arduino, Nvidia jeston nano\NX\TX2.
-- **Uav insturment**: PX4, QGroundControl, Mavros 无人机常用硬件选型机载计算机、电调电机、激光雷达视觉等传感器.
+- **Uav instrument**: PX4, QGroundControl, Mavros 无人机常用硬件选型机载计算机、电调电机、激光雷达视觉等传感器.
 - **滤波器**: Kalman Filter, EKF, UKF, Particle Filter.
 - **Deep Learning**: Pytorch, Keras.
