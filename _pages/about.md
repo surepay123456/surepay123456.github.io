@@ -21,26 +21,25 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
 # 📝 Publications 
 
-<div class='paper-box>
+<div class='paper-box'>
 
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICCA 2024</div>
-      <img src="images/ICCA.png" width="50%"/>
+      <div class="badge">ICUS 2023</div>
+      <img src="images/ICCA.png" width="100%"/>
     </div>
   </div>
 
   <div class='paper-box-text' markdown="1">
-  Risk 
+  **DOTF-SLAM: Real-time Dynamic SLAM Using Object Tracking and Key-point Filtering**
 
-  IEEE International Conference on Control and Autumation (ICCA), 2024 Under Review
-  
-  Erpei Xu
+  IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China, 2023 
 
-  - Proposed an
+  Yixuan Liu, **Xuyang Zhao**, Zhengmao Liu, Chengpu Yu
 
-  </div>
-</div>
+  - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset.
+    </div>
+    </div>
   
 
 
