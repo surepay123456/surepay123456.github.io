@@ -53,3 +53,11 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 # 💻 Internships
 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 📚 Projects
+
+# 📚 Skills
+
+- **Programming**: Python, C++, C
+- **Robotics**: ROS, Gazebo, Cmake
+- **Optimazation Solver**: QSQP, Casadi, Acados, Nlopt
