@@ -21,7 +21,7 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
 # 📝 Publications 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
 
   <div class='paper-box-image'>
     <div>
@@ -39,7 +39,7 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
   - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset.
     </div>
-    </div>
+    </div> -->
   
 
 
