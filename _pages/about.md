@@ -33,7 +33,7 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
   **Topological Risk-Based Path Selection in Dynamic Environments**
 
   <!-- IEEE International Conference on Unmanned Systems (ICCA), Guangzhou, China, 2023  Under Review -->
-  Under Review
+  Under Review 审稿中
 
   **Erpei Xu**, Chengpu Yu, Yixuan Liu
 
