@@ -25,8 +25,7 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICUS 2023</div>
-      <!-- <img src="images/ICCA1.png" width="100%"/> -->
-      <a href="https://youtu.be/aPXxOKf1o10" title="TDLE"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1685324236/video_to_markdown/images/youtube--aPXxOKf1o10-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="TDLE: 2D Lidar Exploration with Hierarchical Planning Using Regional Division" width="100%"/></a> 
+      <img src="images/ICCA.png" width="100%"/>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
