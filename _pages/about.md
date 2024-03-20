@@ -69,9 +69,28 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
   ## 室内机器人集群探索
 
+  - *Oct. 2022 - now*, **Indoor Navigation and Detection Based on Air-Ground Platform Collaboration. (Core Member)** 
+
+  [National Key R&D Program] 
+
+  In disaster relief scenarios, there is a safety risk for rescuers when they enter damaged buildings, such as those affected by an earthquake. 
+
+  To tackle this issue, we have developed a Solid-state LiDAR exploration and mapping system. The proposed system conduct indoor information surveys and return autonomously after completion, helping to inspect the internal environment and find trapped people.
+
+  The whole process requires no remote control or pre-specified routes, as the decision is made entirely by the on-board processing unit.
+
+<table><tr>
+<td style="width:50%"> <a href="https://youtu.be/BFo1Ke8co4k" title="Exploration with Solid-state Lidar (3 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958193/video_to_markdown/images/youtube--BFo1Ke8co4k-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(3 UAVs)"></a></td>
+<td> <a href="https://youtu.be/hQJ7u7scb8Y" title="Exploration with Solid-state Lidar (2 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958424/video_to_markdown/images/youtube--hQJ7u7scb8Y-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(2 UAVs)"></a></td>
+</tr></table>
+
+
+- 
   ## 全国大学生智能车竞赛
 
   ## 搭建无人机硬件平台 视觉以及激光雷达
+
+  ## 一个有趣的STM32小东西
 
 # 🎖 Honors and Awards
 
