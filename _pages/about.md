@@ -99,6 +99,14 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
   ## 一些做的有趣的嵌入式系统
 
+  - *Jun 2019 - Aug 2020*, **Embedded System Development.**
+
+  <table><tr>
+  <td style="width:50%"> <img src="images/ICCA.png" alt="STM32" width="100%"/> </td>
+  <td> <img src="images/ICCA.png" alt="Arduino" width="100%"/> </td>
+  </tr></table>
+  
+
 # 🎖 Honors and Awards
 
 - *2019.10* National Scholarship(**国家奖学金**), Beijing Institute of Technology, China.
