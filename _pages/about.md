@@ -67,6 +67,12 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
   xep对自主无人系统有着浓厚的兴趣和经验丰富的动手能力，以下是他的一些项目经历和自己搭建的平台
 
+  ## 室内机器人集群探索
+
+  ## 全国大学生智能车竞赛
+
+  ## 搭建无人机硬件平台 视觉以及激光雷达
+
 # 🎖 Honors and Awards
 
 - *2019.10* National Scholarship(**国家奖学金**), Beijing Institute of Technology, China.
