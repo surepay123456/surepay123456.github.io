@@ -21,16 +21,15 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'>
-
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICUS 2023</div>
       <img src="images/ICCA1.png" width="100%"/>
     </div>
   </div>
-
   <div class='paper-box-text' markdown="1">
+
   **DOTF-SLAM: Real-time Dynamic SLAM Using Object Tracking and Key-point Filtering**
 
   IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China, 2023 
@@ -38,8 +37,9 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
   Yixuan Liu, **Xuyang Zhao**, Zhengmao Liu, Chengpu Yu
 
   - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset.
+  
     </div>
-    </div> -->
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
