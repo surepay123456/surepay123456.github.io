@@ -90,8 +90,8 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
   <!-- 创建一个表格，一行二列，每个框里面装一个图片 -->
   <table><tr>
-  <td style="width:50%"> <img src="images/uav1.jepg" alt="PX41" width="100%"/> </td>
-  <td> <img src="images/uav2.jepg" alt="PX42" width="100%"/> </td>
+  <td style="width:50%"> <img src="images/ICCA.png" alt="PX41" width="100%"/> </td>
+  <td> <img src="images/ICCA.png" alt="PX42" width="100%"/> </td>
   </tr></table>
 
 
