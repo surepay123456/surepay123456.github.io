@@ -84,13 +84,20 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 <td> <a href="https://youtu.be/hQJ7u7scb8Y" title="Exploration with Solid-state Lidar (2 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958424/video_to_markdown/images/youtube--hQJ7u7scb8Y-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(2 UAVs)"></a></td>
 </tr></table>
 
-
-- 
-  ## 全国大学生智能车竞赛
-
   ## 搭建无人机硬件平台 视觉以及激光雷达
 
-  ## 一个有趣的STM32小东西
+  - *Oct. 2022 - now*, **UAV Hardware Platform and Sensor Integration.**
+
+  <!-- 创建一个表格，一行二列，每个框里面装一个图片 -->
+  <table><tr>
+  <td style="width:50%"> <img src="images/uav1.jepg" alt="PX41" width="100%"/> </td>
+  <td> <img src="images/uav2.jepg" alt="PX42" width="100%"/> </td>
+  </tr></table>
+
+
+  ## 全国大学生智能车竞赛
+
+  ## 一些做的有趣的嵌入式系统
 
 # 🎖 Honors and Awards
 
