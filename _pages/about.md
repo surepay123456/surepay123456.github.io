@@ -25,7 +25,8 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICUS 2023</div>
-      <img src="images/ICCA1.png" width="100%"/>
+      <!-- <img src="images/ICCA1.png" width="100%"/> -->
+      <a href="https://youtu.be/aPXxOKf1o10" title="TDLE"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1685324236/video_to_markdown/images/youtube--aPXxOKf1o10-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="TDLE: 2D Lidar Exploration with Hierarchical Planning Using Regional Division" width="100%"/></a> 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -66,17 +67,14 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 
   xep对自主无人系统有着浓厚的兴趣和经验丰富的动手能力，以下是他的一些项目经历和自己搭建的平台
 
-
-
 # 🎖 Honors and Awards
 
-- *2019.10* National Scholarship(国家奖学金), Beijing Institute of Technology, China.
-- *2018.8 - 2021.6* Excellent Student Scholarship, Beijing Institute of Technology, China.
+- *2019.10* National Scholarship(**国家奖学金**), Beijing Institute of Technology, China.
+- *2018.8 - 2021.6* Excellent Student Scholarship(**优秀学生奖学金**), Beijing Institute of Technology, China.
 - *2018.8 - 2022.6* 班长
 - *2020.9* third prize in the 2020 National Smart Car College student competition(全国大学生智能车竞赛全国三等奖).
-- *2022.9* 以19/220成绩保研至北京理工大学自动化学院复杂系统与智能控制国家重点实验室硕士研究生
-- *2023.1* 获得挑战杯北京赛区一等奖
-
+- *2022.9* 以19/220成绩**保研**至北京理工大学自动化学院复杂系统与智能控制国家重点实验室硕士研究生
+<!-- - *2023.1* 获得挑战杯北京赛区一等奖 -->
 
 # 📖 Educations
 
@@ -86,7 +84,6 @@ Xuerpei is currently a Master student at the Beijing Institute of Technology, Ch
 # 💻 Internships
 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
 
 # 📚 Skills
 
