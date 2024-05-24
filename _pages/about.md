@@ -52,16 +52,7 @@ redirect_from:
   **Erpei Xu**, Chengpu Yu, Yixuan Liu
 
   <!-- - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset. -->
-  - This article introduces
-  a method for selecting safe topological paths in dynamic
-  environments without the need to model moving obstacles.
-  This method involves generating several smooth topological
-  paths and then choosing the safest one through calculating the
-  risk associated with each path on a particle dynamic map.
-  Furthermore, a replanning strategy is proposed in dynamic
-  scenarios to proactively address upcoming obstacles, enhancing
-  navigational safety. Finally, the proposed method is validated
-  in both simulated and real-world environments.
+  - 本文介绍了一种在动态环境中选择安全拓扑路径的方法，该方法不需要对移动障碍物进行建模。该方法首先生成几条平滑的拓扑路径，然后通过计算粒子动态图上每条路径的风险来选择最安全的路径。此外，在动态场景中提出了一种重新规划策略，以主动应对即将到来的障碍，提高航行安全性。最后，在仿真和实际环境中对该方法进行了验证
 
   </div>
 </div>
@@ -227,7 +218,7 @@ redirect_from:
 
 - **编程语言**: 熟悉Python, C++, C，Git.
 - **机器人操作系统**: 熟悉ROS, Gazebo, Cmake, Rotors.
-- **数值优化库**: 了解OSQP, Casadi, Acados, Nlopt等数值优化库
+- **数值优化库**: 了解OSQP, Casadi, Acados, Nlopt等数值优化库 
 - **嵌入式系统**: 熟悉STM32, Arduino, Nvidia jeston nano\NX\TX2.
 - **无人机组装**: 熟悉PX4, QGroundControl, Mavros 无人机常用硬件选型机载计算机、电调电机、激光雷达视觉等传感器.
 - **状态滤波方法**: 了解Kalman Filter, EKF, UKF.
