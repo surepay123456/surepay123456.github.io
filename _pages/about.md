@@ -52,7 +52,7 @@ redirect_from:
   **Erpei Xu**, Chengpu Yu, Yixuan Liu
 
   <!-- - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset. -->
-  - 本文介绍了一种在动态环境中选择安全拓扑路径的方法，该方法不需要对移动障碍物进行建模。该方法首先生成几条平滑的拓扑路径，然后通过计算粒子动态图上每条路径的风险来选择最安全的路径。此外，在动态场景中提出了一种重新规划策略，以主动应对即将到来的障碍，提高航行安全性。最后，在仿真和实际环境中对该方法进行了验证
+  - 本文介绍了一种在动态环境中选择安全拓扑路径的方法，该方法不需要对移动障碍物进行建模。该方法首先生成几条平滑的拓扑路径，然后通过计算粒子动态图上每条路径的风险来选择最安全的路径。此外，在动态场景中提出了一种重新规划策略，以主动应对即将到来的障碍，提高规划安全性。最后，在仿真和实际环境中对该方法进行了验证。
 
   </div>
 </div>
@@ -77,7 +77,7 @@ redirect_from:
 
   Xuyang Zhao, Chengpu Yu, **Erpei Xu** and Yixuan Liu
 
-  - Proposed an exploration system that uses global dynamic regional division and localized metric evaluation to achieve efficient autonomous mapping with low computational requirements. The proposed method can run at high frequencies (>100Hz) on low-power edge platforms like Jetson Nano, while offering up to 57.57% efficiency improvement compared to former methods.
+  - 提出了一种利用全球动态区域划分和本地化度量评价来实现高效、低计算要求的自主测绘的勘探系统。该方法可以在 Jetson Nano 这样的低功耗边缘平台上高频(> 100Hz)运行，与以前的方法相比，效率提高了57.57% 。
 
   </div>
 </div>
