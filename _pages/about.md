@@ -113,9 +113,18 @@ redirect_from:
 
   负责模块：全局探索的一些决策、路径规划、轨迹优化等 和还有一些无人机控制算法的设计
 
-<table><tr>
+<!-- <table><tr>
 <td style="width:50%"> <a href="https://youtu.be/BFo1Ke8co4k" title="Exploration with Solid-state Lidar (3 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958193/video_to_markdown/images/youtube--BFo1Ke8co4k-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(3 UAVs)"></a></td>
 <td> <a href="https://youtu.be/hQJ7u7scb8Y" title="Exploration with Solid-state Lidar (2 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958424/video_to_markdown/images/youtube--hQJ7u7scb8Y-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(2 UAVs)"></a></td>
+</tr></table> -->
+
+<table><tr>
+<td style="width:50%"> 
+<img src="images/proj 2-1.gif" alt="Exploration(3 UAVs)">
+</td>
+<td> 
+<img src="images/proj 2-2.gif" alt="Exploration(2 UAVs)">
+</td>
 </tr></table>
 
 <!-- 【小飞一下记录】 https://www.bilibili.com/video/BV19T421y7ri/?share_source=copy_web&vd_source=4b9edb7cdb221c2a812392f928bb3105
