@@ -160,6 +160,9 @@ redirect_from:
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="//player.bilibili.com/player.html?aid=1904687766&bvid=BV1ZU411f7nV&cid=1543733214&p=1&high_quality=1&danmaku=0&loop=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div> 
 <!-- <iframe src="//player.bilibili.com/player.html?aid=1904687766&bvid=BV1ZU411f7nV&cid=1543733214&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
+  <div style="position: relative; padding: 15% 15%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="//player.bilibili.com/player.html?isOutside=true&aid=1104865491&bvid=BV1qw4m1D7Sj&cid=1554923868&p=1&high_quality=1&danmaku=0&loop=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
 
   <div style="position: relative; padding: 15% 15%;">
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="//player.bilibili.com/player.html?aid=1703514000&bvid=BV19T421y7ri&cid=1519641466&p=1&high_quality=1&danmaku=0&loop=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
