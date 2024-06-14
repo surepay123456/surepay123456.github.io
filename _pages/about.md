@@ -169,7 +169,7 @@ redirect_from:
 </div>
 
 
-  ## 全国大学生智能车竞赛
+  <!-- ## 全国大学生智能车竞赛
 
   <table>
   <tr>
@@ -196,7 +196,7 @@ redirect_from:
     <td style="width:50%; vertical-align: top; padding-left:1px;">
     这里是说明文字
     </td>
-  </tr></table>
+  </tr></table> -->
 
 
 <!-- # 发明专利
