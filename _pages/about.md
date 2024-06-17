@@ -165,45 +165,18 @@ redirect_from:
 </div>
 
   <div style="position: relative; padding: 15% 15%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="//player.bilibili.com/player.html?isOutside=true&aid=112629611759647&bvid=BV1wmVHetEQS&cid=500001584955490&p=1&high_quality=1&danmaku=0&loop=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+
+  <div style="position: relative; padding: 15% 15%;">
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="//player.bilibili.com/player.html?aid=1703514000&bvid=BV19T421y7ri&cid=1519641466&p=1&high_quality=1&danmaku=0&loop=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 
-  <!-- ## 全国大学生智能车竞赛
-
-  <table>
-  <tr>
-  <td style="width:25;  text-align: center;">
-    <img src="images/智能车.png" alt="PX41" style="height:300px; width:auto; display:inline-block;" />
-  </td>
-  <td style="width:25%;  text-align: center;">
-    <img src="images/智能车2.png" alt="PX42" style="height:300px; width:auto; display:inline-block;" />
-  </td>
-  <td style="width:50%; vertical-align: top; padding-left:1px;">
-    这里是说明文字
-  </td>
-  </tr>
-  </table>
 
 
-  ## 一些做的有趣的嵌入式系统
-
-  - *Jun 2019 - Aug 2020*, **Embedded System Development.**
-
-  <table><tr>
-  <td style="width:20%"> <img src="images/电机.png" alt="STM32" width="100%"/> </td>
-  <td style="width:25%"> <img src="images/红外.png" alt="Arduino" width="100%"/> </td>
-    <td style="width:50%; vertical-align: top; padding-left:1px;">
-    这里是说明文字
-    </td>
-  </tr></table> -->
-
-
-<!-- # 发明专利
-
-- 一种动态目标定位方法 CN202211005507.7 (第一学生发明人)
-
-- 一种SLAM与UWB的实时融合与建图方法 	CN202210338417.3 (第二学生发明人) -->
+>
 
 # 🎖 荣誉奖项
 
@@ -222,5 +195,5 @@ redirect_from:
 - **嵌入式系统**: 熟悉STM32, Arduino, Nvidia jeston nano\NX\TX2.
 - **无人机组装**: 熟悉PX4, QGroundControl, Mavros 无人机常用硬件选型机载计算机、电调电机、激光雷达视觉等传感器.
 - **状态滤波方法**: 了解Kalman Filter, EKF, UKF.
-- **路径规划与控制**: 熟悉A\*、RRT*、DWA等路径规划算法，PID、LQR、MPC等控制算法.
+- **路径规划与控制**: 熟悉A\*、RRT*等路径规划算法，PID、LQR、MPC等控制算法.
 - **深度学习框架**: 了解Pytorch, Keras.
