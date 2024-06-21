@@ -146,6 +146,17 @@ redirect_from:
   </td>
   <td style="width:50%; vertical-align: top; padding-left:1px;">
 
+  <table>
+  <tr>
+  <td style="width:25%;  text-align: center;">
+    <img src="http://cdn.xuerpei.xyz/uav1.png" alt="PX41" style="height:300px; width:auto; display:inline-block;" />
+  </td>
+  <td style="width:25%;  text-align: center;">
+    <img src="http://cdn.xuerpei.xyz/uav2.png" alt="PX42" style="height:300px; width:auto; display:inline-block;" />
+  </td>
+  <td style="width:50%; vertical-align: top; padding-left:1px;">
+
+
     (1) 从零构建小型无人机：从硬件选型、连接件设计，到飞控配置、软硬件联调；  
     
     (2)利用无人机动力学模型，设计无人机规划与底层飞控的中间控制器，包括姿态控制器与角速度控制器；  
