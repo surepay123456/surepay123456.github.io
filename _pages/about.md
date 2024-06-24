@@ -145,6 +145,17 @@ redirect_from:
     <img src="images/uav2.png" alt="PX42" style="height:300px; width:auto; display:inline-block;" />
   </td>
   <td style="width:50%; vertical-align: top; padding-left:1px;">
+  
+  <table>
+  <tr>
+  <td style="width:25%;  text-align: center;">
+    <img src="https://cdn.xuerpei.xyz/uav1.png" alt="PX41" style="height:300px; width:auto; display:inline-block;" />
+  </td>
+  <td style="width:25%;  text-align: center;">
+    <img src="images/uav2.png" alt="PX42" style="height:300px; width:auto; display:inline-block;" />
+  </td>
+  <td style="width:50%; vertical-align: top; padding-left:1px;">
+
 
   
 
