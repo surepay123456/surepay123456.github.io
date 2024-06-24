@@ -38,7 +38,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCA 2024</div>
-      <img src="images/ICCA.png" width="100%"/>
+      <img src="https://cdn.xuerpei.xyz/ICCA.png" width="100%"/>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -111,10 +111,10 @@ redirect_from:
 
 <table><tr>
 <td style="width:50%"> 
-<img src="images/proj 2-1.gif" alt="Exploration(3 UAVs)">
+<img src="https://cdn.xuerpei.xyz/proj2-1.gif" alt="Exploration(3 UAVs)">
 </td>
 <td> 
-<img src="images/proj 2-2.gif" alt="Exploration(2 UAVs)">
+<img src="https://cdn.xuerpei.xyz/proj2-2.gif" alt="Exploration(2 UAVs)">
 </td>
 </tr></table>
 
@@ -139,25 +139,12 @@ redirect_from:
   <table>
   <tr>
   <td style="width:25%;  text-align: center;">
-    <img src="images/uav1.png" alt="PX41" style="height:300px; width:auto; display:inline-block;" />
-  </td>
-  <td style="width:25%;  text-align: center;">
-    <img src="images/uav2.png" alt="PX42" style="height:300px; width:auto; display:inline-block;" />
-  </td>
-  <td style="width:50%; vertical-align: top; padding-left:1px;">
-  
-  <table>
-  <tr>
-  <td style="width:25%;  text-align: center;">
     <img src="https://cdn.xuerpei.xyz/uav1.png" alt="PX41" style="height:300px; width:auto; display:inline-block;" />
   </td>
   <td style="width:25%;  text-align: center;">
-    <img src="images/uav2.png" alt="PX42" style="height:300px; width:auto; display:inline-block;" />
+    <img src="https://cdn.xuerpei.xyz/uav2.png" alt="PX42" style="height:300px; width:auto; display:inline-block;" />
   </td>
-  <td style="width:50%; vertical-align: top; padding-left:1px;">
-
-
-  
+  <td style="width:50%; vertical-align: top; padding-left:1px;">  
 
     (1) 从零构建小型无人机：从硬件选型、连接件设计，到飞控配置、软硬件联调；  
     
