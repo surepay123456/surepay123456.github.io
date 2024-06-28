@@ -59,6 +59,7 @@ redirect_from:
     src="https://cdn.xuerpei.xyz/se3Virtual.mp4" 
     autoplay 
     muted 
+    loop
     playsinline>
   </video>
 </div>
