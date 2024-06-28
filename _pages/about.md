@@ -53,7 +53,7 @@ redirect_from:
   </iframe>
 </div>   -->
 
-<div style="position: relative; padding: 15% 15%;">
+<!-- <div style="position: relative; padding: 15% 15%;">
   <video 
     style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
     src="https://cdn.xuerpei.xyz/se3Virtual.mp4" 
@@ -62,8 +62,30 @@ redirect_from:
     loop
     playsinline>
   </video>
-</div>
+</div> -->
 
+<div style="display: flex; justify-content: space-between; margin: 0;">
+  <div style="position: relative; width: 100%; padding-bottom: 25%; height: 0; overflow: hidden;">
+    <video 
+      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+      src="https://cdn.xuerpei.xyz/se3Virtual.mp4" 
+      autoplay 
+      muted 
+      loop 
+      playsinline>
+    </video>
+  </div>
+  <div style="position: relative; width: 125%; padding-bottom: 25%; height: 0; overflow: hidden;">
+    <video 
+      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+      src="https://cdn.xuerpei.xyz/se3圆形轨迹.mp4" 
+      autoplay 
+      muted 
+      loop 
+      playsinline>
+    </video>
+  </div>
+</div>
 
 
 
