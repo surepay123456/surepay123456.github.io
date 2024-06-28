@@ -89,6 +89,8 @@ redirect_from:
 
 
 
+
+
 # 📝 论文发表 
 
 <div class='paper-box'>
@@ -163,14 +165,38 @@ redirect_from:
 
 
 
-<table><tr>
+<!-- <table><tr>
 <td style="width:50%"> 
 <img src="https://cdn.xuerpei.xyz/proj2-1.gif" alt="Exploration(3 UAVs)">
 </td>
 <td> 
 <img src="https://cdn.xuerpei.xyz/proj2-2.gif" alt="Exploration(2 UAVs)">
 </td>
-</tr></table>
+</tr></table> -->
+
+<div style="display: flex; justify-content: space-between; margin: 0;">
+  <div style="position: relative; width: 100%; padding-bottom: 25%; height: 0; overflow: hidden;">
+    <video 
+      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+      src="https://cdn.xuerpei.xyz/proj1-1.mp4" 
+      autoplay 
+      muted 
+      loop 
+      playsinline>
+    </video>
+  </div>
+  <div style="position: relative; width: 125%; padding-bottom: 25%; height: 0; overflow: hidden;">
+    <video 
+      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+      src="https://cdn.xuerpei.xyz/proj1-2.mp4" 
+      autoplay 
+      muted 
+      loop 
+      playsinline>
+    </video>
+  </div>
+</div>
+
 
 
   - *2021年10月 - 至今*, **无人集群协同探测与态势评估技术研究**
@@ -208,10 +234,6 @@ redirect_from:
 <!-- <iframe src="//player.bilibili.com/player.html?aid=1904687766&bvid=BV1ZU411f7nV&cid=1543733214&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
   <div style="position: relative; padding: 15% 15%;">
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="//player.bilibili.com/player.html?isOutside=true&aid=1104865491&bvid=BV1qw4m1D7Sj&cid=1554923868&p=1&high_quality=1&danmaku=0&loop=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div>
-
-  <div style="position: relative; padding: 15% 15%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"  src="//player.bilibili.com/player.html?isOutside=true&aid=112629611759647&bvid=BV1wmVHetEQS&cid=500001584955490&p=1&high_quality=1&danmaku=0&loop=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 
