@@ -31,7 +31,7 @@ redirect_from:
 
 - *2022.08 - 至今*        硕士(**保研**) 北京理工大学  自动化学院  控制工程  ('**双一流学科**'，'**A+**')
   
-<div style="position: relative; padding: 15% 15%;">
+<!-- <div style="position: relative; padding: 15% 15%;">
   <iframe 
     style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
     src="https://cdn.xuerpei.xyz/se3Virtual.mp4?autoplay=1&mute=1" 
@@ -41,6 +41,29 @@ redirect_from:
     allowfullscreen>
   </iframe>
 </div>
+
+<div style="position: relative; padding: 15% 15%;">
+  <iframe 
+    style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+    src="https://cdn.xuerpei.xyz/se3Virtual.mp4?autoplay=1&mute=1" 
+    frameborder="no" 
+    scrolling="no" 
+    allow="autoplay; muted" 
+    allowfullscreen>
+  </iframe>
+</div>   -->
+
+<div style="position: relative; padding: 15% 15%;">
+  <video 
+    style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+    src="https://cdn.xuerpei.xyz/se3Virtual.mp4" 
+    autoplay 
+    muted 
+    playsinline>
+  </video>
+</div>
+
+
 
 
 # 📝 论文发表 
