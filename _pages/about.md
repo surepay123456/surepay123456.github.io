@@ -31,6 +31,17 @@ redirect_from:
 
 - *2022.08 - 至今*        硕士(**保研**) 北京理工大学  自动化学院  控制工程  ('**双一流学科**'，'**A+**')
   
+<div style="position: relative; padding: 15% 15%;">
+  <iframe 
+    style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+    src="https://cdn.xuerpei.xyz/se3Virtual.mp4?autoplay=1&mute=1" 
+    frameborder="no" 
+    scrolling="no" 
+    allow="autoplay; muted" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 # 📝 论文发表 
 
@@ -104,10 +115,7 @@ redirect_from:
 
   负责模块：全局探索的一些决策、路径规划、轨迹优化等 和还有一些无人机控制算法的设计
 
-<!-- <table><tr>
-<td style="width:50%"> <a href="https://youtu.be/BFo1Ke8co4k" title="Exploration with Solid-state Lidar (3 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958193/video_to_markdown/images/youtube--BFo1Ke8co4k-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(3 UAVs)"></a></td>
-<td> <a href="https://youtu.be/hQJ7u7scb8Y" title="Exploration with Solid-state Lidar (2 UAVs)"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1688958424/video_to_markdown/images/youtube--hQJ7u7scb8Y-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Exploration(2 UAVs)"></a></td>
-</tr></table> -->
+
 
 <table><tr>
 <td style="width:50%"> 
@@ -117,14 +125,6 @@ redirect_from:
 <img src="https://cdn.xuerpei.xyz/proj2-2.gif" alt="Exploration(2 UAVs)">
 </td>
 </tr></table>
-
-<!-- 【小飞一下记录】 https://www.bilibili.com/video/BV19T421y7ri/?share_source=copy_web&vd_source=4b9edb7cdb221c2a812392f928bb3105
-  [室内机器人协同定位] -->
-
-<!-- <div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?cid=145147963&aid=84267566&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
-</div> -->
-
 
 
   - *2021年10月 - 至今*, **无人集群协同探测与态势评估技术研究**
