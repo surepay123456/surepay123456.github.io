@@ -13,13 +13,7 @@ redirect_from:
 
 他的研究兴趣包括无人机/无人车路径规划与控制等，在这些方面有着丰富的动手和项目经验。他在国际会议上发表了多篇论文，包括IEEE CASE、IEEE ICCA等。他曾获得国家奖学金、优秀学生奖学金等荣誉。
 
-
-
-
-
-
 # 🔥 News
-
 
 # 📖 教育经历
 
@@ -98,19 +92,21 @@ redirect_from:
     <div>
       <div class="badge">ICCA 2024</div>
       <img src="https://cdn.xuerpei.xyz/ICCA.png" width="100%"/>
+      <!-- <video width="100%" autoplay loop muted>
+        <source src="https://cdn.xuerpei.xyz/se3圆形轨迹.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
   **Topological Risk-Based Path Selection in Dynamic Environments**
 
-  <!-- IEEE International Conference on Unmanned Systems (ICCA), Guangzhou, China, 2023  Under Review -->
   IEEE International Conference on Control & Automation (ICCA), Reykjavík, Iceland, 2024
   已接收
 
   **Erpei Xu**, Chengpu Yu, Yixuan Liu
 
-  <!-- - Eliminate dynamic feature points while retaining static points of movable objects to improve robustness. The localization accuracy is improved by up to 21.69% compared with ORB-SLAM in the KITTI dataset. -->
   - 本文介绍了一种在动态环境中选择安全拓扑路径的方法，该方法不需要对移动障碍物进行建模。该方法首先生成几条平滑的拓扑路径，然后通过计算粒子动态图上每条路径的风险来选择最安全的路径。此外，在动态场景中提出了一种重新规划策略，以主动应对即将到来的障碍，提高规划安全性。最后，在仿真和实际环境中对该方法进行了验证。
 
   </div>
@@ -205,28 +201,42 @@ redirect_from:
   
   负责模块: 搭建硬件平台，设计无人机控制算法
 
-  [无人机自主探测]
+  (1) 从零构建小型无人机：从硬件选型、连接件设计，到飞控配置、软硬件联调；  
+    
+  (2)利用无人机动力学模型，设计无人机规划与底层飞控的中间控制器，包括姿态控制器与角速度控制器；  
+    
+  (3) 搭建了基于ROS的完整控制器接口与状态机模型，并且构造 PID、LQR、MPC、NMPC 等轨迹跟踪优化模型。   
 
   
-  <table>
-  <tr>
-  <td style="width:25%;  text-align: center;">
-    <img src="https://cdn.xuerpei.xyz/uav1.png" alt="PX41" style="height:300px; width:auto; display:inline-block;" />
-  </td>
-  <td style="width:25%;  text-align: center;">
-    <img src="https://cdn.xuerpei.xyz/uav2.png" alt="PX42" style="height:300px; width:auto; display:inline-block;" />
-  </td>
-  <td style="width:50%; vertical-align: top; padding-left:1px;">  
 
-    (1) 从零构建小型无人机：从硬件选型、连接件设计，到飞控配置、软硬件联调；  
-    
-    (2)利用无人机动力学模型，设计无人机规划与底层飞控的中间控制器，包括姿态控制器与角速度控制器；  
-    
-    (3) 搭建了基于ROS的完整控制器接口与状态机模型，并且构造 PID、LQR、MPC、NMPC 等轨迹跟踪优化模型。   
 
-  </td>
-  </tr>
-  </table>
+  <div style="display: flex; justify-content: space-between; margin: 0;">
+  <div style="position: relative; width: 100%; padding-bottom: 25%; height: 0; overflow: hidden;">
+    <img 
+      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+      src="https://cdn.xuerpei.xyz/uav3.jpg" 
+      alt="Image 1">
+  </div>
+  <div style="position: relative; width: 125%; padding-bottom: 25%; height: 0; overflow: hidden;">
+    <img 
+      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+      src="https://cdn.xuerpei.xyz/uav4.jpg" 
+      alt="Image 2">
+  </div>
+  <div style="position: relative; width: 100%; padding-bottom: 25%; height: 0; overflow: hidden;">
+    <img 
+      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+      src="https://cdn.xuerpei.xyz/uav1.png" 
+      alt="Image 3">
+  </div>
+  <div style="position: relative; width: 125%; padding-bottom: 25%; height: 0; overflow: hidden;">
+    <img 
+      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
+      src="https://cdn.xuerpei.xyz/uav5.jpg" 
+      alt="Image 4">
+  </div>
+</div>
+
 
 
 <!-- <iframe src="//player.bilibili.com/player.html?aid=1904687766&bvid=BV1ZU411f7nV&cid=1543733214&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
