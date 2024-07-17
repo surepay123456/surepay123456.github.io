@@ -69,10 +69,10 @@ redirect_from:
       playsinline>
     </video>
   </div>
-  <div style="position: relative; width: 125%; padding-bottom: 25%; height: 0; overflow: hidden;">
+  <div style="position: relative; width: 130%; padding-bottom: 25%; height: 0; overflow: hidden;">
     <video 
       style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/se3圆形轨迹.mp4" 
+      src="https://cdn.xuerpei.xyz/高速环.mp4" 
       autoplay 
       muted 
       loop 
