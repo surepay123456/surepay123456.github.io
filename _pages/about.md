@@ -25,61 +25,6 @@ redirect_from:
 
 - *2022.08 - 至今*        硕士(**保研**) 北京理工大学  自动化学院  控制工程  ('**双一流学科**'，'**A+**')
   
-<!-- <div style="position: relative; padding: 15% 15%;">
-  <iframe 
-    style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-    src="https://cdn.xuerpei.xyz/se3Virtual.mp4?autoplay=1&mute=1" 
-    frameborder="no" 
-    scrolling="no" 
-    allow="autoplay; muted" 
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div style="position: relative; padding: 15% 15%;">
-  <iframe 
-    style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-    src="https://cdn.xuerpei.xyz/se3Virtual.mp4?autoplay=1&mute=1" 
-    frameborder="no" 
-    scrolling="no" 
-    allow="autoplay; muted" 
-    allowfullscreen>
-  </iframe>
-</div>   -->
-
-<!-- <div style="position: relative; padding: 15% 15%;">
-  <video 
-    style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-    src="https://cdn.xuerpei.xyz/se3Virtual.mp4" 
-    autoplay 
-    muted 
-    loop
-    playsinline>
-  </video>
-</div> -->
-
-<div style="display: flex; justify-content: space-between; margin: 0;">
-  <div style="position: relative; width: 100%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <video 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/se3Virtual.mp4" 
-      autoplay 
-      muted 
-      loop 
-      playsinline>
-    </video>
-  </div>
-  <div style="position: relative; width: 130%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <video 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/高速环.mp4" 
-      autoplay 
-      muted 
-      loop 
-      playsinline>
-    </video>
-  </div>
-</div>
 
 
 
@@ -161,38 +106,6 @@ redirect_from:
 
 
 
-<!-- <table><tr>
-<td style="width:50%"> 
-<img src="https://cdn.xuerpei.xyz/proj2-1.gif" alt="Exploration(3 UAVs)">
-</td>
-<td> 
-<img src="https://cdn.xuerpei.xyz/proj2-2.gif" alt="Exploration(2 UAVs)">
-</td>
-</tr></table> -->
-
-<div style="display: flex; justify-content: space-between; margin: 0;">
-  <div style="position: relative; width: 100%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <video 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/proj1-1.mp4" 
-      autoplay 
-      muted 
-      loop 
-      playsinline>
-    </video>
-  </div>
-  <div style="position: relative; width: 125%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <video 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/proj1-2.mp4" 
-      autoplay 
-      muted 
-      loop 
-      playsinline>
-    </video>
-  </div>
-</div>
-
 
 
   - *2021年10月 - 至今*, **无人集群协同探测与态势评估技术研究**
@@ -210,59 +123,7 @@ redirect_from:
   
 
 
-  <div style="display: flex; justify-content: space-between; margin: 0;">
-  <div style="position: relative; width: 100%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <img 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/uav3.jpg" 
-      alt="Image 1">
-  </div>
-  <div style="position: relative; width: 125%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <img 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/uav4.jpg" 
-      alt="Image 2">
-  </div>
-  <div style="position: relative; width: 100%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <img 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/uav1.png" 
-      alt="Image 3">
-  </div>
-  <div style="position: relative; width: 125%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <img 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/uav5.jpg" 
-      alt="Image 4">
-  </div>
-</div>
 
-
-
-<!-- <iframe src="//player.bilibili.com/player.html?aid=1904687766&bvid=BV1ZU411f7nV&cid=1543733214&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
-
-<div style="display: flex; justify-content: space-between; margin: 0;">
-  <div style="position: relative; width: 100%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <video 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/egoplanner无人机高速自主导航.mp4" 
-      autoplay 
-      muted 
-      loop 
-      playsinline>
-    </video>
-  </div>
-  <div style="position: relative; width: 125%; padding-bottom: 25%; height: 0; overflow: hidden;">
-    <video 
-      style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" 
-      src="https://cdn.xuerpei.xyz/转环.mp4" 
-      autoplay 
-      muted 
-      loop 
-      playsinline>
-    </video>
-  </div>
-</div>
 
 
 >
